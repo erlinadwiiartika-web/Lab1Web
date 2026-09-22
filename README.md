@@ -24,7 +24,7 @@ Pada tahap pertama dibuat file index.html dengan struktur dasar HTML yang terdir
 
 Screenshot:
 
-![Struktur HTML](1-struktur-html.png)
+<img src="images/1-struktur-html.png" alt="Struktur HTML">
 
 2. Membuat Paragraf
 
