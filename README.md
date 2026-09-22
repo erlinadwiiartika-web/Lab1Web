@@ -24,7 +24,7 @@ Pada tahap pertama dibuat file index.html dengan struktur dasar HTML yang terdir
 
 Screenshot:
 
-![Struktur HTML](screenshots/1-struktur-html.png)
+![Struktur HTML](1-struktur-html.png)
 
 2. Membuat Paragraf
 
@@ -32,7 +32,7 @@ Pada tahap ini digunakan tag <p> untuk membuat paragraf pada halaman HTML.
 
 Screenshot:
 
-![Struktur HTML](screenshots/2-paragraf.png)
+![Struktur HTML](2-paragraf.png)
 
 3. Menambahkan Heading
 
@@ -40,7 +40,7 @@ Tag <h1> dan <h2> digunakan untuk membuat judul dan subjudul pada halaman.
 
 Screenshot:
 
-![Struktur HTML](screenshots/3-heading.png)
+![Struktur HTML](3-heading.png)
 
 4. Memformat Teks
 
@@ -48,7 +48,7 @@ Pada tahap ini digunakan beberapa tag pemformatan teks seperti <b>, <i>, <strong
 
 Screenshot:
 
-![Struktur HTML](screenshots/4-format-teks.png)
+![Struktur HTML](4-format-teks.png)
 
 5. Menambahkan Gambar
 
@@ -56,11 +56,11 @@ Gambar ditambahkan menggunakan tag <img> dengan atribut src, width, dan alt.
 
 Screenshot:
 
-![Struktur HTML](screenshots/5-gambar1.png)
+![Struktur HTML](5-gambar1.png)
 
 Screenshot:
 
-![Struktur HTML](screenshots/6-gambar2.png)
+![Struktur HTML](6-gambar2.png)
 
 6. Membuat Hyperlink
 
@@ -68,7 +68,7 @@ Pada tahap ini dibuat hyperlink internal menuju index.html dan halaman2.html, se
 
 Screenshot:
 
-![Struktur HTML](screenshots/7-hyperlink.png)
+![Struktur HTML](7-hyperlink.png)
 
 7. Membuat List
 
@@ -76,7 +76,7 @@ Dibuat dua jenis list, yaitu unordered list menggunakan <ul> dan ordered list me
 
 Screenshot:
 
-![Struktur HTML](screenshots/8-list.png)
+![Struktur HTML](8-list.png)
 
 8. Membuat Komentar HTML
 
@@ -84,7 +84,7 @@ Komentar HTML dibuat menggunakan <!-- ... -->. Komentar digunakan sebagai penand
 
 Screenshot:
 
-![Struktur HTML](screenshots/9-komentar.png)
+![Struktur HTML](9-komentar.png)
 
 9. Menggabungkan Semua Elemen
 
@@ -92,7 +92,7 @@ Semua elemen HTML yang telah dipelajari kemudian digabungkan menjadi halaman Pro
 
 Screenshot:
 
-![Struktur HTML](screenshots/10-profil.png)
+![Struktur HTML](10-profil.png)
 
 Kesimpulan
 
