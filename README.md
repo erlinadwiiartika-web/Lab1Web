@@ -32,7 +32,7 @@ Pada tahap ini digunakan tag <p> untuk membuat paragraf pada halaman HTML.
 
 Screenshot:
 
-![Struktur HTML](2-paragraf.png)
+<img src="images/2-paragraf.png" alt="Struktur HTML">
 
 3. Menambahkan Heading
 
@@ -40,7 +40,7 @@ Tag <h1> dan <h2> digunakan untuk membuat judul dan subjudul pada halaman.
 
 Screenshot:
 
-![Struktur HTML](3-heading.png)
+<img src="images/3-heading.png" alt="Struktur HTML">
 
 4. Memformat Teks
 
@@ -48,7 +48,7 @@ Pada tahap ini digunakan beberapa tag pemformatan teks seperti <b>, <i>, <strong
 
 Screenshot:
 
-![Struktur HTML](4-format-teks.png)
+<img src="images/4-format-teks.png" alt="Struktur HTML">
 
 5. Menambahkan Gambar
 
@@ -56,11 +56,11 @@ Gambar ditambahkan menggunakan tag <img> dengan atribut src, width, dan alt.
 
 Screenshot:
 
-![Struktur HTML](5-gambar1.png)
+<img src="images/5-gambar1.png" alt="Struktur HTML">
 
 Screenshot:
 
-![Struktur HTML](6-gambar2.png)
+<img src="images/6-gambar2.png" alt="Struktur HTML">
 
 6. Membuat Hyperlink
 
@@ -68,7 +68,7 @@ Pada tahap ini dibuat hyperlink internal menuju index.html dan halaman2.html, se
 
 Screenshot:
 
-![Struktur HTML](7-hyperlink.png)
+<img src="images/7-hyperlink.png" alt="Struktur HTML">
 
 7. Membuat List
 
@@ -76,7 +76,7 @@ Dibuat dua jenis list, yaitu unordered list menggunakan <ul> dan ordered list me
 
 Screenshot:
 
-![Struktur HTML](8-list.png)
+<img src="images/8-list.png" alt="Struktur HTML">
 
 8. Membuat Komentar HTML
 
@@ -84,7 +84,7 @@ Komentar HTML dibuat menggunakan <!-- ... -->. Komentar digunakan sebagai penand
 
 Screenshot:
 
-![Struktur HTML](9-komentar.png)
+<img src="images/9-komentar.png" alt="Struktur HTML">
 
 9. Menggabungkan Semua Elemen
 
@@ -92,7 +92,7 @@ Semua elemen HTML yang telah dipelajari kemudian digabungkan menjadi halaman Pro
 
 Screenshot:
 
-![Struktur HTML](10-profil.png)
+<img src="images/10-profil.png" alt="Struktur HTML">
 
 Kesimpulan
 
